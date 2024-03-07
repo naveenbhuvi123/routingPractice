@@ -1,0 +1,39 @@
+.header-container {
+  background-size: cover;
+  height: 15vh;
+  display: flex;
+  flex-direction: row;
+  font-family: roboto;
+  color: #12022f;
+  justify-content: space-between;
+  padding: 20px;
+  font-weight: bold;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+.wave-logo {
+  height: 50px;
+  margin-right: 10px;
+}
+
+.list-name {
+  margin-left: 15px;
+  font-size: 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.logo-name {
+  font-size: 25px;
+}
